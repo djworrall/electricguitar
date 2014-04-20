@@ -6,12 +6,13 @@ I believe after the 4th fret on the 2nd string I used the 1st string for the rem
 
 ## Recording Quality
 
-Sample rate: 44.1kHz 
-Bit depth: 24bit
-File format: AIFF
+- Sample rate: 44.1kHz
+- Bit depth: 24bit
+- File format: AIFF
 
-Raw files are in guitarNotes
-Normalised in guitarNotesNorm
+Raw files are in `guitarNotes`
+
+Normalised in `guitarNotesNorm`
 
 ## Signal Path
 
@@ -23,7 +24,7 @@ Normalised in guitarNotesNorm
 - Logic Pro 9
 
 ## File names
-Files are named with the MIDI note they correspond to.
+Files are suffixed with the MIDI note they correspond to, e.g. `guitar40.aif` is the open 6th string (E), which is MIDI note 40.
 
 ## License
 
